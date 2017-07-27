@@ -3,7 +3,7 @@ administrator/
 admin1/
 admin2/
 admin3/
-admin4/
+admin/login.php
 admin5/
 usuarios/
 usuario/
@@ -21,7 +21,7 @@ administratorlogin/
 adm/
 admin/account.php
 admin/index.php
-admin/login.php
+admin4/
 admin/admin.php
 admin/account.php
 admin_area/admin.php
