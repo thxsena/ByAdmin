@@ -6,7 +6,7 @@
 # Github: github.com/thxsena
 # How to use: python byadmin.py http://www.site.com wordlist.txt
 #
-# _____     _____   _       _     
+#  _____     _____   _       _     
 # | __  |_ _|  _  |_| |_____|_|___ 
 # | __ -| | |     | . |     | |   |
 # |_____|_  |__|__|___|_|_|_|_|_|_|
