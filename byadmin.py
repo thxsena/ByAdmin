@@ -48,6 +48,6 @@ for line in lines:
 	r = requests.get(pwned)
 	stat = r.status_code
 	if stat == 200:
-		print '\033[31m'+"[+]"+"\033[0;0m"+"URL FOUND: "+pwn
+	    print '\033[31m'+"[+]"+"\033[0;0m"+"URL FOUND: "+pwn
 	else:
-		print "[-] URL NOT FOUND: "+pwn
+	    print "[-] URL NOT FOUND: "+pwn
